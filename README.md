@@ -6,7 +6,7 @@
 ##### Once the timer is 0, the sun starts to move up and once it reaches the very top, the game will be a loss.
 #####    
 #####  --------------------------------------------------------------------------------------------------------------
-###### The Java language along with the LibGdx framework library with the Box2D extension was used to make this game. 
+###### The Java language along with the LibGDX framework library with the Box2D extension was used to make this game. 
 ###### The code was compiled and tested using Android Studio.
 
 ###### Assets with the exception of the music, sound effects, and menu/interactive buttons were all made by me.
