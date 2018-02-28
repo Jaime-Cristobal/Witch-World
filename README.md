@@ -12,3 +12,6 @@
 ###### The rendering design was done using the "screen" interaface provided by the LibGDX library which was composed of
 ###### implementing the following functions: show(), render(float delta), public resize(int width, int height), pause(),
 ###### resume(), hide(), and dispose().
+
+###### I followed the design of initializing an object once, and recycling and reseting the values of that object using
+###### show(), which is called everytime the class implemented with the "screen" interface is accessed. 
