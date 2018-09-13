@@ -1,5 +1,7 @@
 # Witch-World
 
+##### CSE 455 Group project with Aleksei Pulchritudoff and Joey Ngo.
+
 ![demo2](https://github.com/Jaime-Cristobal/Witch-World/blob/master/demogif2.gif?raw=true)
 
 ##### The objective is to gather as many watches as possible to keep the score timer above 0.
