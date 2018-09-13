@@ -112,7 +112,7 @@ public class Death implements Screen
                 stage.getWidth(), stage.getHeight());
         project.batch.draw((Texture) project.assetmanager.manager.get("mount.png"), 0, 0,
                 stage.getWidth(), stage.getHeight() + 140);
-        title.draw(project.batch, "You suck", 90, 390);
+        title.draw(project.batch, "DEAD", 90, 390);
         project.backgrounds.displayAll();
         project.batch.draw((Texture) project.assetmanager.manager.get("grass.png"), 0, 0,
                 stage.getWidth(), stage.getHeight() + 140);
