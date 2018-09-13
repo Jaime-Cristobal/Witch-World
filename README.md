@@ -17,3 +17,6 @@
 
 ###### I followed the design of initializing an object once, and recycling and reseting the values of that object using
 ###### show(), which is called everytime the class implemented with the "screen" interface is accessed. 
+###### ---------------------------------------------------------------------------------------------------------------
+########## Known Problems
+######
