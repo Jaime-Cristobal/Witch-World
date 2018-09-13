@@ -7,7 +7,8 @@
 
 ##### The objective is to gather as many watches as possible to keep the score timer above 0.
 ##### Once the timer is 0, the sun starts to move up and once it reaches the very top, it will result in a lost.
-#####    
+##### The LibGDX library in this project will handle launches through both desktop and Android. The build from 
+##### https://libgdx.badlogicgames.com/ will create these classes.
 #####  --------------------------------------------------------------------------------------------------------------
 ###### The Java language along with the LibGDX framework library with the Box2D extension was used to make this game. 
 ###### The code was compiled and tested using Android Studio.
