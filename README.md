@@ -27,3 +27,5 @@
 ######      -> Door movements are slightly off because the if statement is checked on precised int values.
 ######         Position values on the doors are float and will most of the time be checked as false.
 ######      -> Uneccesary classes need to be merged. Too much composition.
+###### ----------------------------------------------------------------------------------------------------------------
+###### Note: Music and sound effects were taken from freesounds.org
