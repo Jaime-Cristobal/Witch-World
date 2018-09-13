@@ -18,5 +18,9 @@
 ###### I followed the design of initializing an object once, and recycling and reseting the values of that object using
 ###### show(), which is called everytime the class implemented with the "screen" interface is accessed. 
 ###### ---------------------------------------------------------------------------------------------------------------
-########## Known Problems
-######
+###### Some Problems:
+######      -> For why the collisions are off, the contact between joints in the body should be tracked
+######         instead of relying on a non-sensored bodies tracked with a filter identifier.
+######      -> Door movements are slightly off because the if statement is checked on precised int values.
+######         Position values on the doors are float and will most of the time be checked as false.
+######      -> Uneccesary classes need to be merged. Too much composition.
