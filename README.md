@@ -1,6 +1,6 @@
 # Witch-World
 
-##### CSE 455 Group project with Aleksei Pulchritudoff and Joey Ngo.
+##### CSE 455 (Software Engineering): Group project with Aleksei Pulchritudoff and Joey Ngo.
 
 ![demo2](https://github.com/Jaime-Cristobal/Witch-World/blob/master/demogif2.gif?raw=true)
 
