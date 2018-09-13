@@ -29,3 +29,4 @@
 ######      -> Uneccesary classes need to be merged. Too much composition.
 ###### ----------------------------------------------------------------------------------------------------------------
 ###### Note: Music and sound effects were taken from freesounds.org
+######       Buttons and font are credited to https://github.com/czyzby/gdx-skins
