@@ -3,7 +3,7 @@
 ##### CSE 455 (Software Engineering): Group project with Aleksei Pulchritudoff and Joey Ngo.
 ##### Instructor: Bhrigu Celly 
 ##### Role: Main Developer/Programmer
-##### Time Span: 10 Weeks
+##### Time Span: 10 Weeks (1 quarter)
 ##### Management Tool: Trello and Basecamp
 ##### System: Desktop (Windows & Linux), Android
 ##### Language: Java
