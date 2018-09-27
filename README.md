@@ -10,17 +10,17 @@
 ##### The LibGDX library in this project will handle launches through both desktop and Android. The build from 
 ##### https://libgdx.badlogicgames.com/ will automatically create these classes.
 #####  --------------------------------------------------------------------------------------------------------------
-###### The Java language along with the LibGDX framework library with the Box2D extension was used to make this game. 
+###### Java along with the LibGDX framework library and the Box2D extension was used to develop this game. 
 ###### The code was compiled and tested using Android Studio.
 
-###### Assets with the exception of the music, sound effects, and menu/interactive buttons were all made by me.
+###### Assets with the exception of music, sound effects, and menu/interactive buttons is credited to our group.
 
 ###### The design was done using the "screen" interaface provided by the LibGDX library which was composed of
 ###### implementing the following functions: show(), render(float delta), public resize(int width, int height), pause(),
 ###### resume(), hide(), and dispose().
 
 ###### I followed the design of initializing an object once, and recycling and reseting the values of that object using
-###### show(), which is called everytime the class implemented with the "screen" interface is accessed. 
+###### show(), which is called everytime the class implemented when the "screen" interface is accessed. 
 ###### ---------------------------------------------------------------------------------------------------------------
 ###### Some Problems:
 ######      -> For why the collisions are off, the contact between joints in the body should be tracked
