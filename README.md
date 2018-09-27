@@ -4,7 +4,7 @@
 ##### Role: Main Developer/Programmer
 ##### Time Span: 10 Weeks
 
-https://trello.com/b/NLIwfSzv/cs455proj8
+![trello_sprint](https://github.com/Jaime-Cristobal/Witch-World/blob/master/trello_sprint.png)
 
 ![demo2](https://github.com/Jaime-Cristobal/Witch-World/blob/master/demogif2.gif?raw=true)
 
