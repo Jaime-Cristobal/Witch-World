@@ -7,6 +7,7 @@
 ##### Management Tool: Trello and Basecamp
 ##### System: Desktop (Windows & Linux), Android
 ##### Language: Java
+##### Renderer: OpenGL
 
 ![trello_sprint](https://github.com/Jaime-Cristobal/Witch-World/blob/master/trello_sprint.png)
 
