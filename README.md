@@ -2,6 +2,9 @@
 
 ##### CSE 455 (Software Engineering): Group project with Aleksei Pulchritudoff and Joey Ngo.
 ##### Role: Main Developer/Programmer
+##### Time Span: 10 Weeks
+
+https://trello.com/b/NLIwfSzv/cs455proj8
 
 ![demo2](https://github.com/Jaime-Cristobal/Witch-World/blob/master/demogif2.gif?raw=true)
 
@@ -15,7 +18,7 @@
 
 ###### Assets with the exception of music, sound effects, and menu/interactive buttons is credited to our group.
 
-###### The design was done using the "screen" interaface provided by the LibGDX library which was composed of
+###### The design was done using the "screen" interface provided by the LibGDX library which was composed of
 ###### implementing the following functions: show(), render(float delta), public resize(int width, int height), pause(),
 ###### resume(), hide(), and dispose().
 
@@ -24,10 +27,10 @@
 ###### ---------------------------------------------------------------------------------------------------------------
 ###### Some Problems:
 ######      -> For why the collisions are off, the contact between joints in the body should be tracked
-######         instead of relying on a non-sensored bodies tracked with a filter identifier.
-######      -> Door movements are slightly off because the if statement is checked on precised int values.
-######         Position values on the doors are float and will most of the time be checked as false.
-######      -> Uneccesary classes need to be merged. Too much composition.
+######         instead of relying on non-sensored bodies tracked with a filter identifier.
+######      -> Door movements are slightly off because the if statement is checked on precise int values.
+######         Position values on the doors are float and will not meet those precise values.
+######      -> Uneccesary classes need to be merged. Too much composition. Also horrible/not enough comments due to being rushed.
 ###### ----------------------------------------------------------------------------------------------------------------
 ###### Note: Music and sound effects were taken from freesounds.org
 ######       Buttons and font are credited to https://github.com/czyzby/gdx-skins
