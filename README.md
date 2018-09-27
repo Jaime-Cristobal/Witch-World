@@ -5,6 +5,8 @@
 ##### Role: Main Developer/Programmer
 ##### Time Span: 10 Weeks
 ##### Management Tool: Trello and Basecamp
+##### System: Desktop (Windows & Linux), Android
+##### Language: Java
 
 ![trello_sprint](https://github.com/Jaime-Cristobal/Witch-World/blob/master/trello_sprint.png)
 
