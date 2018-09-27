@@ -4,7 +4,7 @@
 ##### Instructor: Bhrigu Celly 
 ##### Role: Main Developer/Programmer
 ##### Time Span: 10 Weeks
-##### Management Tool: Trello and BaseCamp
+##### Management Tool: Trello and Basecamp
 
 ![trello_sprint](https://github.com/Jaime-Cristobal/Witch-World/blob/master/trello_sprint.png)
 
