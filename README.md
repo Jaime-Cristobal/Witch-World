@@ -1,6 +1,7 @@
 # Witch-World
 
 ##### CSE 455 (Software Engineering): Group project with Aleksei Pulchritudoff and Joey Ngo.
+##### Instructor: Bhrigu Celly 
 ##### Role: Main Developer/Programmer
 ##### Time Span: 10 Weeks
 
