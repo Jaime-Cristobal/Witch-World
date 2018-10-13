@@ -1,14 +1,14 @@
 # Witch-World
-## Note: This is a repo dump from another repo. The original repo was created on September 2017 and deleted on December 2017.
+### Note: This is a repo dump from another repo. The original repo was created on September 2017 and deleted on December 2017.
 
-##### CSE 455 (Software Engineering): Group project with Aleksei Pulchritudoff and Joey Ngo.
-##### Instructor: Bhrigu Celly 
-##### Role: Main Developer/Programmer
-##### Time Span: 10 Weeks (1 quarter)
-##### Management Tool: Trello and Basecamp
-##### System: Desktop (Windows & Linux), Android
-##### Language: Java
-##### Renderer: OpenGL
+#### CSE 455 (Software Engineering): Group project with Aleksei Pulchritudoff and Joey Ngo.
+#### Instructor: Bhrigu Celly 
+#### Role: Main Developer/Programmer
+#### Time Span: 10 Weeks (1 quarter)
+#### Management Tool: Trello and Basecamp
+#### System: Desktop (Windows & Linux), Android
+#### Language: Java
+#### Renderer: OpenGL
 
 ![trello_sprint](https://github.com/Jaime-Cristobal/Witch-World/blob/master/trello_sprint.png)
 
